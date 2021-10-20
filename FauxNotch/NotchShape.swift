@@ -38,6 +38,6 @@ struct NotchShape: Shape {
 struct NotchShape_Previews: PreviewProvider {
     static var previews: some View {
         NotchShape()
-            .frame(width: 200, height: 22)
+            .frame(width: 170, height: 22)
     }
 }
